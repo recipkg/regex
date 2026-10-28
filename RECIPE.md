@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "regex"
-version = "0.1.0"
+version = "0.1.1"
 kind = "software"
 description = "可复用的有限自动机正则匹配引擎重建配方，当前仍在提取。"
 entry = "BUILD_PROMPT.md"
